@@ -422,3 +422,15 @@ h6,
   font-family: 'Oswald', sans-serif;
   font-size: 12px;
 }
+#features2-g .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#msg-box8-h .mbr-section-title,
+#msg-box8-h p {
+  color: #fff;
+}
+#content8-k .mbr-section-title,
+#content8-k p {
+  text-align: right;
+  color: #fff;
+}
