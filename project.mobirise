@@ -238,7 +238,11 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
+              "link": "https://www.youtube.com/watch?v=AYMhpFzOwiY",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "active": true,
