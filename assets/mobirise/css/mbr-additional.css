@@ -1,7 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -422,18 +425,31 @@ h6,
   font-family: 'Oswald', sans-serif;
   font-size: 12px;
 }
-#msg-box4-a H3 {
+#content6-n P {
+  color: #999595;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
+}
+#content6-n UL {
   text-align: left;
 }
-#msg-box8-h .mbr-section-title,
-#msg-box8-h p {
-  color: #fff;
+#gallery4-d LI {
+  color: #979797;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
 }
-#content7-i P {
-  color: #cccccc;
+#msg-box4-a H3 {
+  text-align: left;
+  color: #ffffff;
+  font-size: 46px;
 }
-#content8-k .mbr-section-title,
-#content8-k p {
-  text-align: right;
-  color: #fff;
+#msg-box4-a .btn {
+  font-size: 12px;
+}
+#features4-o .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-o .iconbox {
+  background-color: #181818;
+  border-color: #181818;
 }
