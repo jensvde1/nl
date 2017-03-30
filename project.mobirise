@@ -112,6 +112,14 @@
             "Theme"
           ],
           "_name": "gallery4",
+          "_styles": {
+            "LI": {
+              "color": "#979797",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center"
+            }
+          },
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -177,12 +185,62 @@
                 "active": false
               },
               {
-                "tags": "Digital",
+                "tags": "Drawing",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/glitch-building-800x432.jpg",
-                "image": "@PROJECT_PATH@/assets/images/glitch-building.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/9-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/10-800x854.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/11-800x793.jpg",
+                "image": "@PROJECT_PATH@/assets/images/11.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/12-800x793.jpg",
+                "image": "@PROJECT_PATH@/assets/images/12.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -197,15 +255,7 @@
           },
           "_anchor": "gallery4-d",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            "LI": {
-              "color": "#979797",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "text-align": "center"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_inherit": "msg-box5",
