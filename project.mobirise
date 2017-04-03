@@ -805,7 +805,7 @@
                 "active": true
               }
             ],
-            "spacing": "4",
+            "spacing": "1",
             "showText": false,
             "filter": true,
             "bgColor": "#181818",
