@@ -868,8 +868,8 @@
               "active": true,
               "src": "https://www.youtube.com/watch?v=AYMhpFzOwiY",
               "aspectratio": "16:9",
-              "autoplay": "on",
-              "loop": "on"
+              "autoplay": false,
+              "loop": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
@@ -879,7 +879,7 @@
           },
           "title": "DEVOTION&nbsp;<br>",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"Videos.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
           "_styles": {
@@ -1117,7 +1117,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/NIclyH8SJas",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
