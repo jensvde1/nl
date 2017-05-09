@@ -711,8 +711,9 @@ h6,
 }
 #ext_menu-1j .link[aria-expanded="true"],
 #ext_menu-1j .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #efefef!important;
 }
+
 
 
 #ext_menu-1r .hide-buttons .nav-btn {
@@ -776,5 +777,9 @@ h6,
 }
 #ext_menu-1r .link[aria-expanded="true"],
 #ext_menu-1r .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
+  color: #efefef!important;
+}
+#gallery4-1s LI {
+  color: #efefef;
+  font-family: 'Oswald', sans-serif;
 }
