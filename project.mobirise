@@ -837,7 +837,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/communicatiemast-bewerkt3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/communicatiemast-bewerkt1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
