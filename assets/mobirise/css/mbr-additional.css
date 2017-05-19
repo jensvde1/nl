@@ -443,6 +443,7 @@ h6,
   font-size: 18px;
 }
 
+
 #header3-29 .mbr-section-title,
 #header3-29 .mbr-section-subtitle {
   text-align: center;
@@ -458,6 +459,13 @@ h6,
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
+}
+#content6-2c UL {
+  text-align: left;
+}
+#content6-2c P {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 16px;
 }
 
 
@@ -496,17 +504,18 @@ h6,
 #header3-3i .mbr-section-subtitle {
   text-align: center;
 }
-#features4-5p .card-subtitle {
+#features4-3j .card-subtitle {
   color: #bcbcbc;
 }
-#features4-5p .iconbox {
+#features4-3j .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-5p H4 {
+#features4-3j H4 {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
+  color: #000000;
 }
 #features4-3m .card-subtitle {
   color: #bcbcbc;
@@ -589,14 +598,14 @@ h6,
 #header3-4k .mbr-section-subtitle {
   text-align: center;
 }
-#features4-5i .card-subtitle {
+#features4-4l .card-subtitle {
   color: #bcbcbc;
 }
-#features4-5i .iconbox {
+#features4-4l .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-5i H4 {
+#features4-4l H4 {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
@@ -620,26 +629,26 @@ h6,
 #header3-4o .mbr-section-subtitle {
   text-align: center;
 }
-#features4-5j .card-subtitle {
+#features4-4p .card-subtitle {
   color: #bcbcbc;
 }
-#features4-5j .iconbox {
+#features4-4p .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-5j H4 {
+#features4-4p H4 {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
 }
-#features4-5k .card-subtitle {
+#features4-4q .card-subtitle {
   color: #bcbcbc;
 }
-#features4-5k .iconbox {
+#features4-4q .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-5k H4 {
+#features4-4q H4 {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 19px;
@@ -651,14 +660,14 @@ h6,
 #header3-4t .mbr-section-subtitle {
   text-align: center;
 }
-#features4-5l .card-subtitle {
+#features4-4u .card-subtitle {
   color: #bcbcbc;
 }
-#features4-5l .iconbox {
+#features4-4u .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-5l H4 {
+#features4-4u H4 {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
@@ -681,14 +690,14 @@ h6,
 #header3-4y .mbr-section-subtitle {
   text-align: center;
 }
-#features4-5o .card-subtitle {
+#features4-4z .card-subtitle {
   color: #bcbcbc;
 }
-#features4-5o .iconbox {
+#features4-4z .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-5o H4 {
+#features4-4z H4 {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
@@ -706,14 +715,14 @@ h6,
 #header3-53 .mbr-section-subtitle {
   text-align: center;
 }
-#features4-5m .card-subtitle {
+#features4-54 .card-subtitle {
   color: #bcbcbc;
 }
-#features4-5m .iconbox {
+#features4-54 .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-5m H4 {
+#features4-54 H4 {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
@@ -744,14 +753,14 @@ h6,
 #header3-58 .mbr-section-subtitle {
   text-align: center;
 }
-#features4-5n .card-subtitle {
+#features4-59 .card-subtitle {
   color: #bcbcbc;
 }
-#features4-5n .iconbox {
+#features4-59 .iconbox {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
-#features4-5n H4 {
+#features4-59 H4 {
   text-align: center;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 18px;
