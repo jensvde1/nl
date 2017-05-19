@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio 2017 en",
-    "currentPage": "Language.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -822,7 +822,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/-dsc1136-2000x14282.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc1136-2000x14280.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
